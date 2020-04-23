@@ -111,6 +111,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="src\Employee.h" />
+    <ClInclude Include="src\Person.h" />
     <ClInclude Include="src\Robot.h" />
   </ItemGroup>
   <ItemGroup>

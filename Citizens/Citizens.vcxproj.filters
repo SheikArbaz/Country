@@ -23,5 +23,11 @@
     <ClInclude Include="src\Robot.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Person.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Employee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
